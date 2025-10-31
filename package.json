@@ -1,0 +1,5 @@
+{
+  "name": "corev-api-mock",
+  "version": "1.0.0",
+  "main": "api/services.js"
+}
